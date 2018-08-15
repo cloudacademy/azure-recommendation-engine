@@ -6,3 +6,6 @@ This file contains URLs and commands from the demos in Cloud Academy's _Building
 
 ### Deploying the Solution
 [Product Recommendations Solution](https://github.com/Microsoft/Product-Recommendations)
+
+### Conclusion
+support@cloudacademy.com
