@@ -5,7 +5,7 @@ This file contains URLs and commands from the demos in Cloud Academy's _Building
 [Azure Free Trial](https://azure.microsoft.com/free)  
 
 ### Deploying the Solution
-[Product Recommendations Solution](https://github.com/Microsoft/Product-Recommendations)
+[Product Recommendations Solution](https://github.com/Microsoft/Product-Recommendations/tree/master/deploy)
 
 ### Conclusion
 support@cloudacademy.com
