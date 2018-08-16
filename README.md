@@ -4,7 +4,7 @@ This file contains URLs and commands from the demos in Cloud Academy's _Building
 ### Introduction
 [Azure Free Trial](https://azure.microsoft.com/free)  
 
-### Deploying the Solution
+### Deploying and Testing
 [Product Recommendations Solution](https://github.com/Microsoft/Product-Recommendations/tree/master/deploy)
 
 User transactions for personalized recommendations:
