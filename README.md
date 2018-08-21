@@ -17,5 +17,10 @@ User transactions for personalized recommendations:
 "timestamp": "2018-08-14T23:01:00"}]
 ```
 
+### Making API Requests
+```
+curl -i -X GET --header 'x-api-key: <Primary Key>'  '<Model URL>/recommend?itemId=DQF-00248'
+```
+
 ### Conclusion
 support@cloudacademy.com
