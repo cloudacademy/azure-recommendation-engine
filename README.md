@@ -19,8 +19,10 @@ User transactions for personalized recommendations:
 
 ### Making API Requests
 ```
-curl -i -X GET --header 'x-api-key: <Primary Key>' '<Model URL>/recommend?itemId=DQF-00248'
+curl -i -X GET --header 'x-api-key: <Primary Key>' '<Website URL>/api/models/<Model ID>/recommend?itemId=DQF-00248'
 ```
+
+[API Documentation](https://github.com/Microsoft/Product-Recommendations/blob/master/doc/api-reference.md)
 
 ### Conclusion
 support@cloudacademy.com
